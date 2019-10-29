@@ -15,11 +15,19 @@
     overflow: scroll;
 }
 
+<<<<<<< HEAD
 .present-true {
+=======
+.present-true{
+>>>>>>> base
     color: gray;
     font-style: italic;
 }
 
 .present-false {
     font-weight: bold;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> base
